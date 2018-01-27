@@ -1,0 +1,2115 @@
+  #   Jump System/Planets
+--- ------ ---------------
+  1  43.51 Gamma Doradus
+	           D 1 (37452) TWW
+  2  12.00 Ninhursag
+	           Kerinci (464) ELW
+  3  16.83 Verner
+	           6 (111) TWW
+  4  37.48 Mahibitou
+	           7 (155) TWW
+  5  27.54 HIP 25795
+	           B 1 (462382) TWW
+  6  21.12 Kratakak
+	           6 (135) TWW
+  7  20.05 Ossians
+	           B 6 (63181) TWW
+  8  18.51 HIP 26688
+	           B 6 (10513) TWW
+	           A 6 (1207) HMC
+	           B 5 (9510) HMC
+  9  28.03 Hyades Sector HW-W d1-103
+	           2 (715) TWW
+	           1 (494) HMC
+ 10  11.47 Hyades Sector NS-T c3-8
+	           B 5 (3266) TWW
+	           A 3 (201) HMC
+	           B 4 (3387) HMC
+ 11   7.49 Pentam
+	           A 6 (338) TWW
+	           A 5 (213) HMC
+	           B 4 (2516) HMC
+	           B 3 (2575) HMC
+ 12  26.16 Hyades Sector OS-T c3-2
+	           A 3 (338) TWW
+	           A 2 (262) HMC
+ 13  16.99 Hyades Sector HW-W d1-105
+	           3 (619) TWW
+	           4 (618) HMC
+	           5 (815) HMC
+ 14  23.21 Hyades Sector QN-T c3-12
+	           2 (250) TWW
+	           1 (251) TWW
+ 15  15.96 Hyades Sector PN-T c3-7
+	           4 (280) TWW
+	           3 (178) HMC
+ 16  18.22 Hyades Sector EQ-O b6-3
+	           B 1 (4826) TWW
+ 17  34.06 Hyades Sector HW-W d1-74
+	           A 4 (1573) TWW
+	           A 3 (845) HMC
+ 18  26.29 HIP 25335
+	           4 (838) TWW
+ 19  28.62 Hyades Sector NR-V b2-1
+	           A 5 (192) TWW
+	           A 4 (102) HMC
+ 20  25.76 Hyades Sector IB-X c1-2
+	           1 (245) TWW
+ 21  35.56 Synuefe AG-W c18-9
+	           5 (453) TWW
+	           4 (349) HMC
+ 22  10.37 HR 1625
+	           A 7 (3966) TWW
+	           A 6 (2223) HMC
+ 23  26.87 Synuefe OA-L d9-37
+	           2 (476) TWW
+ 24  18.37 HIP 22908
+	           3 (832) ELW
+	           5 (1162) TWW
+	           4 (828) HMC
+ 25  16.99 Synuefe WZ-X c17-2
+	           2 (408) TWW
+	           1 (292) HMC
+ 26  22.00 Synuefe VU-V b35-1
+	           2 (104) TWW
+ 27  35.63 Synuefe KU-M d8-29
+	           A 3 (985) TWW
+	           B 5 (410506) TWW
+	           A 4 (1282) HMC
+	           A 2 (716) HMC
+	           B 4 (410623) HMC
+	           B 3 (411016) HMC
+ 28  14.81 Synuefe DB-W c18-3
+	           A 6 (177) TWW
+ 29  14.79 Synuefe KI-Q b38-1
+	           A 7 (94) TWW
+ 30  21.68 HIP 21508
+	           A 1 (1228) ELW
+ 31  14.89 HIP 21668
+	           A 1 (529) ELW
+ 32  27.31 Synuefe HH-U c19-8
+	           A 10 (646) ELW
+	           A 8 (471) HMC
+	           A 9 (472) HMC
+ 33  26.25 Synuefe RZ-M b40-2
+	           1 (107) TWW
+ 34  43.41 HIP 21940
+	           B 7 (79667) ELW
+	           C 4 (77251) HMC
+	           C 3 (77152) HMC
+	           C 5 (77050) HMC
+ 35  33.24 Synuefe OI-S c20-14
+	           5 (217) TWW
+	           4 (153) HMC
+	           3 (153) HMC
+ 36  12.66 Synuefe OI-S c20-11
+	           4 (289) TWW
+	           3 (160) HMC
+ 37  13.09 Synuefe OI-S c20-1
+	           D 7 (8974) TWW
+	           D 8 (9423) TWW
+ 38  23.30 HIP 23036
+	           B 5 (2570) TWW
+	           B 6 (3175) TWW
+	           B 7 (3176) TWW
+	           B 4 (2791) HMC
+	           B 3 (2790) HMC
+ 39  25.77 HIP 23851
+	           A 3 (979) TWW
+	           B 3 (47862) TWW
+	           A 2 (670) HMC
+	           B 2 (47732) HMC
+	           B 1 (47898) HMC
+ 40  21.02 Synuefe RT-Q c21-16
+	           5 (165) ELW
+	           4 (96) HMC
+ 41  28.40 Synuefe ON-S c20-15
+	           7 (476) ELW
+	           8 (649) HMC
+	           6 (479) HMC
+	           5 (362) HMC
+	           4 (361) HMC
+ 42  29.58 Synuefe UG-J d10-33
+	           A 7 (2172) TWW
+	           B 3 (24023) TWW
+	           A 5 (1119) HMC
+	           A 6 (1436) HMC
+	           B 4 (22095) HMC
+	           B 2 (22710) HMC
+ 43  15.67 Synuefe ON-S c20-6
+	           1 (287) TWW
+ 44  43.22 Synuefe NI-H b43-2
+	           6 (48) TWW
+ 45  56.34 HIP 26046
+	           3 (1874) TWW
+ 46  37.18 Synuefe SV-K d9-35
+	           ABC 1 (1408) TWW
+	           ABC 3 (1609) TWW
+	           ABC 2 (1405) HMC
+ 47  39.90 Synuefe QA-L d9-86
+	           2 (1076) ELW
+	           1 (763) HMC
+ 48   5.81 Synuefe QA-L d9-14
+	           1 (863) TWW
+ 49  33.22 Synuefe MU-M d8-38
+	           A 7 (1663) TWW
+	           A 5 (1242) HMC
+	           A 6 (1243) HMC
+ 50  51.89 Synuefe LU-M d8-36
+	           A 5 (991) TWW
+	           A 4 (715) HMC
+ 51  27.57 Synuefe LU-M d8-51
+	           A 1 (366) TWW
+ 52  28.19 Synuefe UT-Z c16-17
+	           2 (399) ELW
+	           1 (305) HMC
+ 53  26.54 Synuefe UT-Z c16-14
+	           1 (388) ELW
+ 54  28.68 Synuefe WO-Z c16-12
+	           A 9 (502) TWW
+	           B 4 (7273) TWW
+	           B 3 (7273) HMC
+	           B 2 (7374) HMC
+ 55  18.06 Synuefe WO-Z c16-9
+	           3 (213) ELW
+ 56  30.76 HR 1799
+	           8 (5393) TWW
+ 57  24.11 Synuefe ZJ-X b34-1
+	           A 9 (165) TWW
+	           A 8 (113) HMC
+ 58  68.19 Synuefe CQ-X c17-3
+	           1 (462) TWW
+ 59  27.80 Synuefe MP-M d8-36
+	           6 (797) TWW
+ 60  23.67 Synuefe KX-R b37-1
+	           A 1 (136) TWW
+ 61  24.59 Synuefe HC-S b37-0
+	           6 (130) TWW
+ 62  15.74 Synuefe DB-W c18-5
+	           A 6 (433) TWW
+ 63  26.56 Synuefe EB-W c18-14
+	           2 (516) TWW
+	           1 (353) HMC
+ 64  22.64 HIP 25371
+	           5 (1901) TWW
+ 65  13.68 Synuefe EM-S b37-4
+	           B 2 (47536) ELW
+	           B 3 (47542) HMC
+	           B 1 (47566) HMC
+ 66  49.39 Synuefe DC-R b38-3
+	           A 2 (114) TWW
+	           A 3 (156) TWW
+	           B 2 (2818) HMC
+	           B 3 (2875) HMC
+ 67  23.72 Synuefe ZK-W c18-16
+	           B 1 (210090) TWW
+ 68  28.35 Col 285 Sector DJ-R b5-6
+	           B 1 (3085) TWW
+	           B 2 (3037) TWW
+ 69  38.63 HIP 27158
+	           B 2 (35622) TWW
+	           B 1 (35499) HMC
+	           A 7 (789) HMC
+	           A 8 (1103) HMC
+ 70  13.42 Col 285 Sector IB-X d1-33
+	           3 a (905) TWW
+	           2 (621) HMC
+ 71  17.55 Col 285 Sector VR-L b8-4
+	           A 9 (179) ELW
+	           A 8 (120) HMC
+	           A 7 (84) HMC
+ 72   6.52 Col 285 Sector ZY-R c4-5
+	           B 1 (5472) ELW
+ 73  45.32 Col 285 Sector RB-M b8-2
+	           1 (90) TWW
+ 74  15.72 Col 285 Sector WI-S c4-7
+	           1 (401) TWW
+ 75   9.41 Col 285 Sector NH-V d2-86
+	           4 (1030) TWW
+	           3 (725) HMC
+ 76  22.42 Col 285 Sector NH-V d2-104
+	           1 (385) TWW
+ 77  39.55 HIP 33411
+	           B 6 (5417) TWW
+	           B 5 (5938) TWW
+	           B 4 (5938) HMC
+	           B 3 (5570) HMC
+ 78  26.54 Col 285 Sector CP-F b12-0
+	           3 (126) TWW
+	           2 (92) HMC
+ 79  28.02 Ross 428
+	           A 4 (1362) TWW
+	           A 3 (920) HMC
+ 80  11.65 Col 285 Sector PS-T d3-82
+	           A 1 (422) TWW
+	           B 3 (24712) HMC
+ 81   9.27 Col 285 Sector GA-E b13-4
+	           B 5 (1689) TWW
+	           A 6 (113) HMC
+ 82  21.58 Col 285 Sector PS-T d3-123
+	           2 (211) TWW
+	           1 (211) HMC
+ 83   8.86 Col 285 Sector PS-T d3-122
+	           6 (1173) TWW
+ 84  22.44 Col 285 Sector DA-P c6-24
+	           2 (379) TWW
+	           1 (253) HMC
+ 85  14.16 Col 285 Sector DA-P c6-21
+	           6 (559) TWW
+	           5 (378) HMC
+ 86  10.87 Wregoe AS-J c22-29
+	           2 (412) TWW
+	           1 (295) HMC
+ 87  20.18 Col 285 Sector FP-F b12-7
+	           C 5 (504) TWW
+	           C 4 (474) HMC
+	           C 6 (527) HMC
+ 88  27.18 Col 285 Sector ZT-Q c5-19
+	           A 3 (488) TWW
+	           A 1 (379) HMC
+	           A 2 (488) HMC
+ 89   5.13 Col 285 Sector ZT-Q c5-23
+	           1 (203) TWW
+ 90   9.36 Col 285 Sector LM-V d2-29
+	           5 (815) TWW
+	           3 (560) HMC
+	           4 (561) HMC
+ 91  21.92 Col 285 Sector ZT-Q c5-27
+	           C 6 (52464) TWW
+	           C 4 (52523) HMC
+	           C 5 (52523) HMC
+ 92  28.47 Col 285 Sector YT-Q c5-20
+	           11 (212) TWW
+	           12 (211) TWW
+	           10 (179) TWW
+	           8 (117) HMC
+	           9 (152) HMC
+ 93  37.95 Col 285 Sector LM-V d2-32
+	           BC 6 (7957) TWW
+	           BC 5 (8122) HMC
+	           BC 4 (8308) HMC
+ 94  27.41 Col 285 Sector OM-U c3-6
+	           3 (453) TWW
+	           2 (358) HMC
+ 95  35.51 HIP 33303
+	           B 4 (7824) TWW
+	           A 6 (1028) HMC
+	           B 3 (7381) HMC
+	           B 5 (8025) HMC
+ 96  27.62 56 G. Canis Majoris
+	           7 (2879) TWW
+	           6 (2279) HMC
+ 97  37.68 Col 285 Sector GG-X d1-33
+	           6 (1391) TWW
+ 98  40.58 Col 285 Sector LB-W c2-21
+	           2 (471) ELW
+ 99  27.85 Col 285 Sector UH-S b5-1
+	           A 6 (81) TWW
+100  24.81 Col 285 Sector LB-W c2-20
+	           1 (453) ELW
+	           2 (617) TWW
+101  37.84 HIP 30154
+	           B 1 (67830) TWW
+102  42.55 HIP 28224
+	           ABCD 3 (1913) TWW
+103  14.65 Synuefe IZ-M d8-89
+	           3 (1079) TWW
+	           1 (619) HMC
+	           2 (1082) HMC
+104  30.58 Synuefe SJ-Y c17-3
+	           7 (545) TWW
+105  22.82 Col 285 Sector EV-Y d21
+	           C 6 (449231) TWW
+106  40.96 Hyades Sector BA-Z c3
+	           5 (441) TWW
+107  33.16 Hyades Sector ZE-Z c8
+	           B 4 (8406) ELW
+	           A 5 (582) TWW
+	           A 4 (421) HMC
+	           A 6 (715) HMC
+108  28.83 Hyades Sector WO-A d56
+	           3 (1116) TWW
+109  25.61 Col 285 Sector BA-Z d82
+	           3 (535) TWW
+110  34.80 Col 285 Sector GQ-X c1-8
+	           A 4 (557) TWW
+111  23.90 HIP 24234
+	           BC 1 (8198) TWW
+	           BC 3 (9156) HMC
+	           BC 2 (9156) HMC
+112  21.46 Synuefe GZ-M d8-74
+	           A 2 (886) TWW
+113  10.83 HIP 22801
+	           A 6 (616) TWW
+	           A 7 (617) HMC
+114   9.54 HIP 22306
+	           4 (378) ELW
+	           5 (482) TWW
+	           3 (379) HMC
+115  23.79 HIP 21863
+	           A 6 (2546) ELW
+	           A 4 (1408) HMC
+	           A 5 (2540) HMC
+116  23.70 Col 285 Sector GL-X c1-11
+	           A 5 (219) TWW
+117  21.75 Col 285 Sector EQ-X c1-10
+	           1 (581) TWW
+118  21.58 Hyades Sector VT-A c6
+	           6 (160) TWW
+	           5 (91) HMC
+119  23.19 HIP 21442
+	           B 7 (23350) TWW
+	           B 5 (22939) HMC
+	           B 6 (22939) HMC
+	           A 4 (877) HMC
+	           A 6 (1522) HMC
+	           A 7 (1520) HMC
+	           A 5 (1179) HMC
+120  14.47 Hyades Sector BQ-Y d77
+	           5 (717) TWW
+	           3 (519) HMC
+	           4 (521) HMC
+	           2 (422) HMC
+121  13.19 53 Tauri
+	           6 (4083) TWW
+	           5 a (2930) TWW
+	           4 (2274) HMC
+122  17.97 HIP 19797
+	           2 (592) TWW
+	           3 (592) HMC
+123  15.19 43 Tauri
+	           6 (4152) ELW
+	           7 (4143) TWW
+	           5 (4154) TWW
+	           4 (2434) HMC
+	           3 (2430) HMC
+124  22.30 Aries Dark Region IM-V c2-15
+	           B 5 (19955) TWW
+	           B 3 (20000) HMC
+125  20.80 Wolf 1279
+	           A 4 (760) TWW
+	           A 2 (405) HMC
+	           A 3 (549) HMC
+	           B 3 (471594) HMC
+	           B 4 (471955) HMC
+126  14.33 HIP 17552
+	           4 (1576) TWW
+	           2 (914) HMC
+	           3 (914) HMC
+127  11.05 HIP 17511
+	           2 (688) TWW
+	           1 (376) HMC
+128  24.09 HIP 18154
+	           A 3 (693) TWW
+	           A 2 (485) HMC
+129  19.45 Gliese 3254
+	           A 5 (1839) TWW
+	           A 3 (1091) HMC
+	           A 4 (1495) HMC
+	           B 5 (12442) HMC
+	           B 4 (12287) HMC
+	           B 2 (13068) HMC
+	           B 3 (12547) HMC
+130   9.46 Pleiades Sector KS-T c3-15
+	           A 1 (466) TWW
+	           A 2 (466) HMC
+131  18.38 Pleiades Sector FW-W d1-54
+	           B 5 (5099) TWW
+	           B 6 (5541) HMC
+	           B 4 (5305) HMC
+132  13.71 Pleiades Sector JC-V d2-62
+	           A 5 (921) TWW
+	           A 4 (682) HMC
+	           B 8 (11867) HMC
+	           B 9 (11869) HMC
+	           B 10 (11816) HMC
+133  13.95 Pleiades Sector QT-R c4-12
+	           A 1 (261) TWW
+134  10.03 Pleiades Sector BM-L b8-1
+	           AB 2 (161) TWW
+	           AB 3 (161) HMC
+	           AB 1 (128) HMC
+135  22.04 Pleiades Sector WF-N b7-0
+	           AB 1 (75) TWW
+136   4.43 Pleiades Sector MN-T c3-3
+	           6 (206) TWW
+137  15.16 Pleiades Sector LN-T c3-5
+	           BC 3 (4868) TWW
+	           BC 1 (4901) HMC
+	           BC 2 (4901) HMC
+	           BC 4 (5013) HMC
+	           BC 6 (5135) HMC
+	           BC 5 (5135) HMC
+138  22.14 Pleiades Sector LX-U d2-57
+	           5 (1076) TWW
+	           4 (1076) HMC
+	           6 (1081) HMC
+139  17.13 HIP 14364
+	           5 (1509) ELW
+	           3 (796) HMC
+	           4 (1037) HMC
+140  20.09 Pleiades Sector PT-R c4-2
+	           1 (318) TWW
+141  23.60 Aries Dark Region FW-W d1-27
+	           A 3 (809) ELW
+	           A 4 (809) TWW
+	           A 1 (573) HMC
+	           A 2 (574) HMC
+142  27.22 HIP 13224
+	           7 (1986) ELW
+	           6 (1492) HMC
+	           5 (1087) HMC
+	           4 (1084) HMC
+143   6.80 Aries Dark Region FW-W d1-63
+	           B 4 (6899) ELW
+	           B 3 (7614) HMC
+144  29.10 Aries Dark Region FW-W d1-73
+	           A 4 (1527) TWW
+	           A 2 (882) HMC
+	           A 3 (1153) HMC
+	           B 6 (30858) HMC
+	           B 7 (30857) HMC
+	           B 5 (31109) HMC
+	           B 8 (30706) HMC
+145  25.53 Aries Dark Region HR-W d1-44
+	           A 4 (1067) TWW
+	           A 3 (859) HMC
+	           A 5 (1068) HMC
+146  24.49 HIP 11316
+	           2 (1633) ELW
+	           1 (1134) HMC
+147  23.69 HIP 11457
+	           2 (819) TWW
+148  35.51 Aries Dark Region AG-O b6-1
+	           1 (145) TWW
+149  30.86 Aries Dark Region PI-T c3-4
+	           AB 2 (487) TWW
+	           AB 1 (360) HMC
+150  19.04 Aries Dark Region YZ-P b5-1
+	           3 (138) TWW
+	           2 (98) HMC
+	           4 (180) HMC
+151  40.17 HIP 11154
+	           A 3 (987) TWW
+	           A 2 (721) HMC
+	           A 4 (1307) HMC
+	           B 6 (122670) HMC
+152  17.17 Aries Dark Region CR-M b7-2
+	           8 (95) TWW
+153  34.02 4 Arietis
+	           10 b (4679) TWW
+	           10 c (4671) HMC
+	           10 a (4678) HMC
+	           10 d (4671) HMC
+	           10 e (4688) HMC
+154  33.13 Col 285 Sector UT-R c4-14
+	           B 1 (3736) TWW
+155  20.32 HIP 10201
+	           A 6 (824) TWW
+	           A 5 (638) HMC
+156   3.18 Aries Dark Region QT-R c4-7
+	           5 (165) TWW
+157  13.64 HIP 11237
+	           A 4 (731) ELW
+	           A 5 (929) HMC
+	           A 3 (550) HMC
+158  18.64 Aries Dark Region NN-T c3-7
+	           1 (146) TWW
+159  24.59 Aries Dark Region TZ-O b6-0
+	           5 (133) TWW
+	           4 (74) HMC
+160  18.22 Aries Dark Region FW-W d1-59
+	           A 4 (769) TWW
+	           B 3 (9711) TWW
+	           A 5 (1102) HMC
+	           A 3 (623) HMC
+	           B 5 (9666) HMC
+	           B 4 (9583) HMC
+	           B 2 (9436) HMC
+161  15.57 Aries Dark Region MY-Q b5-4
+	           A 3 (62) TWW
+162  33.75 Aries Dark Region TK-N b7-0
+	           AB 1 (75) TWW
+163  20.53 Aries Dark Region KS-T c3-11
+	           B 6 (7142) ELW
+164  18.16 Aries Dark Region FW-W d1-64
+	           7 (948) TWW
+	           8 (1283) TWW
+	           6 (683) HMC
+165  11.02 Aries Dark Region WA-N b7-1
+	           A 4 (64) TWW
+	           A 5 (64) TWW
+	           A 2 (35) HMC
+	           A 3 (48) HMC
+166  30.30 Aries Dark Region LN-T c3-9
+	           11 (241) TWW
+	           12 (305) HMC
+167  41.77 BD+20307
+	           A 5 (868) TWW
+	           A 4 (614) HMC
+168  59.36 Aries Dark Region HR-W d1-63
+	           3 (989) ELW
+169  47.65 HIP 10288
+	           7 (1522) TWW
+170  15.33 Aries Dark Region OS-U c2-1
+	           C 3 (6868) TWW
+	           C 4 (6960) TWW
+	           C 1 (6966) HMC
+	           C 2 (7039) HMC
+171  18.99 HIP 10796
+	           A 4 (1666) ELW
+	           A 3 (1268) TWW
+	           B 3 (24716) TWW
+172  42.04 Synuefai TV-Q b37-1
+	           1 (82) TWW
+173  58.19 HIP 12740
+	           B 4 (14340) TWW
+	           B 3 (14423) HMC
+174  23.30 HIP 13638
+	           A 4 (1235) TWW
+175  25.44 Mel 22 Sector QD-T d3-34
+	           5 (1516) TWW
+176  31.63 Synuefe MK-M d8-17
+	           C 3 (13479) TWW
+	           AB 4 (1621) HMC
+	           C 2 (13350) HMC
+	           C 1 (13016) HMC
+	           C 4 (13477) HMC
+177  13.97 HIP 14384
+	           AB 1 (833) TWW
+178  72.43 Synuefai JN-V c18-6
+	           12 (353) TWW
+179  48.64 HIP 12975
+	           B 2 (44220) TWW
+	           A 5 (1756) HMC
+	           A 6 (2291) HMC
+	           A 7 (3020) HMC
+180  25.91 HIP 13810
+	           AB 1 (857) TWW
+181  36.23 Pleiades Sector BG-O b6-0
+	           A 3 (112) TWW
+182  41.79 HIP 16671
+	           BC 2 (8964) ELW
+	           A 8 (862) HMC
+	           A 9 (1053) HMC
+	           A 10 (1434) HMC
+	           BC 1 (9093) HMC
+183  13.67 Pleiades Sector KM-W d1-40
+	           B 7 (43147) TWW
+	           B 5 (43813) HMC
+	           B 6 (43832) HMC
+184  18.54 HIP 16193
+	           5 (3330) TWW
+185  17.89 Pleiades Sector RD-T c3-6
+	           A 9 (402) TWW
+	           A 10 (486) HMC
+186  25.63 Aries Dark Region EL-Y d47
+	           8 (1012) TWW
+	           9 (1013) TWW
+	           7 (1011) HMC
+187  34.87 Aries Dark Region JW-W c1-4
+	           6 (478) TWW
+	           5 (282) HMC
+188  26.51 HIP 17873
+	           4 (1828) ELW
+	           3 (996) HMC
+189  17.96 Pleiades Sector IR-W d1-42
+	           A 6 (914) ELW
+	           B 4 (12435) ELW
+	           B 3 (12565) HMC
+	           A 5 (648) HMC
+	           A 3 (443) HMC
+	           A 4 (441) HMC
+	           C 6 (131808) HMC
+190   8.64 Pleiades Sector IR-W d1-71
+	           3 (731) TWW
+	           4 (1030) TWW
+	           2 (547) HMC
+191  11.00 Pleiades Sector IR-W d1-64
+	           A 6 (426) TWW
+	           B 4 (3020) TWW
+	           B 5 (3020) HMC
+	           B 6 (3028) HMC
+	           B 3 (3104) HMC
+192  11.94 H Camelopardalis
+	           A 3 (758) TWW
+193  20.86 Pleiades Sector FW-M b7-1
+	           6 (100) TWW
+	           5 (62) HMC
+194  30.70 Synuefe OZ-V b35-0
+	           5 (59) TWW
+195  19.26 HIP 20273
+	           C 2 (9216) TWW
+	           C 4 (9435) HMC
+	           C 3 (9215) HMC
+196  26.50 Col 285 Sector KG-X c1-9
+	           1 (361) TWW
+197  29.13 HIP 21078
+	           A 7 (1595) ELW
+	           A 6 (1274) HMC
+198  17.66 Hyades Sector JG-X b1-3
+	           5 (87) TWW
+199  39.43 HR 1308
+	           C 3 (322408) TWW
+	           C 1 (322348) HMC
+	           C 2 (322400) HMC
+200  16.07 Hyades Sector KB-X b1-0
+	           6 (111) TWW
+201  23.04 HIP 18618
+	           B 3 (190138) TWW
+	           B 2 (190138) HMC
+202  29.56 Hyades Sector DL-Y d74
+	           B 1 (5985) TWW
+	           B 2 (5985) TWW
+203  10.84 Hyades Sector DL-Y d73
+	           1 (922) TWW
+204  31.62 Aries Dark Region LH-V c2-2
+	           1 (301) TWW
+205  23.47 Synuefe ZA-W c18-8
+	           3 (540) TWW
+	           2 (431) HMC
+206  23.77 Hyades Sector DL-Y d43
+	           A 2 (741) TWW
+	           A 3 (742) TWW
+	           BC 2 (31748) TWW
+	           A 1 (548) HMC
+	           BC 1 (31718) HMC
+207  23.03 Hyades Sector KR-W c1-14
+	           6 (350) TWW
+208  12.58 Hyades Sector KR-W c1-10
+	           4 (210) ELW
+209  30.62 HIP 17987
+	           3 (790) TWW
+210  22.22 Hyades Sector AK-R b4-3
+	           7 (140) TWW
+211  23.21 Hyades Sector PS-U c2-3
+	           AB 4 (734) TWW
+	           D 8 (232899) TWW
+	           D 7 (233349) HMC
+212  28.77 Col 285 Sector RR-M b7-1
+	           5 (69) TWW
+213  10.03 Col 285 Sector VI-T c3-4
+	           A 7 (275) TWW
+	           A 6 (197) HMC
+214  28.85 Synuefe ME-O b39-0
+	           A 2 (89) ELW
+215  45.34 HIP 15977
+	           B 4 (5029) ELW
+	           B 5 (5134) HMC
+216  45.79 Synuefe ER-V c18-5
+	           2 (364) ELW
+	           1 (274) HMC
+217  59.68 Synuefe XE-Z c16-4
+	           A 2 (451) TWW
+	           A 1 (452) HMC
+218  25.92 Synuefe YE-Z c16-5
+	           CDE 5 (16923) ELW
+219  18.74 Synuefe MP-M d8-56
+	           6 (1007) ELW
+	           5 (1009) HMC
+	           4 (711) HMC
+220  54.13 HIP 20113
+	           3 (1516) TWW
+221  41.98 Synuefe HJ-O d7-27
+	           6 (497) ELW
+	           5 (287) HMC
+222  37.94 Synuefe PI-B c16-4
+	           A 2 (300) ELW
+	           A 3 (425) HMC
+	           B 3 (10443) HMC
+223  33.71 Mel 22 Sector WZ-E b12-2
+	           6 (139) ELW
+	           7 (139) ELW
+224  20.73 Mel 22 Sector ON-T d3-68
+	           B 3 (35993) TWW
+	           A 3 (781) HMC
+	           A 4 (1020) HMC
+	           B 2 (36047) HMC
+225  19.53 Synuefe SO-Z c16-5
+	           1 (266) TWW
+226  26.60 Synuefe JU-M d8-70
+	           A 8 (903) TWW
+	           A 7 (904) HMC
+	           A 9 (1214) HMC
+227  23.80 Mel 22 Sector UO-Q c5-4
+	           A 6 (160) ELW
+228  28.02 Mel 22 Sector UO-Q c5-12
+	           1 (434) TWW
+	           2 (435) HMC
+229  31.84 HIP 20810
+	           A 6 (600) TWW
+	           A 7 (601) HMC
+	           A 5 (520) HMC
+230  20.71 Pleiades Sector EL-Y d35
+	           4 (881) TWW
+	           3 (671) HMC
+	           5 (1211) HMC
+231  25.11 Pleiades Sector OH-V b2-0
+	           A 5 (105) TWW
+232  36.41 HIP 19847
+	           C 3 (17521) TWW
+	           C 4 (16316) TWW
+	           C 2 (16734) HMC
+	           C 5 (16315) HMC
+233  31.66 HIP 19187
+	           A 3 (1665) TWW
+	           A 2 (1120) HMC
+234  27.39 Pleiades Sector KH-V c2-13
+	           10 (641) ELW
+	           9 (645) HMC
+	           7 (412) HMC
+	           8 (503) HMC
+235  15.21 Pleiades Sector IR-W d1-75
+	           A 1 (762) TWW
+	           B 6 (412524) HMC
+	           B 5 (412521) HMC
+236  19.13 Pleiades Sector IR-W d1-48
+	           6 (1518) TWW
+237  14.02 HIP 19072
+	           4 (1488) ELW
+238  16.95 HIP 19637
+	           A 4 (1303) ELW
+	           A 3 (941) HMC
+	           A 2 (709) HMC
+239  23.58 Pleiades Sector HM-V c2-1
+	           3 (565) TWW
+	           1 (302) HMC
+	           2 (403) HMC
+240  25.17 HIP 19629
+	           B 5 (10436) TWW
+	           A 4 (803) HMC
+	           A 3 (573) HMC
+	           B 4 (10446) HMC
+241   8.64 Pleiades Sector LS-T c3-14
+	           A 9 (348) TWW
+	           A 8 (246) HMC
+	           A 10 (386) HMC
+242  34.35 Hyades Sector BQ-Y d56
+	           AB 2 (1686) TWW
+	           AB 1 (1167) HMC
+	           CD 2 (33218) HMC
+	           CD 1 (33243) HMC
+243  23.76 Hyades Sector XU-X b1-3
+	           A 1 (64) TWW
+244   9.45 Hyades Sector AQ-Y d91
+	           5 (1038) TWW
+	           4 (750) HMC
+245  26.02 Hyades Sector AB-W b2-5
+	           B 1 (6200) TWW
+246  32.02 Wolf 160
+	           A 2 a (631) TWW
+	           A 3 (887) TWW
+	           A 2 (632) HMC
+247   7.00 Hyades Sector ZA-W b2-4
+	           A 7 (109) TWW
+	           A 6 (63) HMC
+248  14.53 Col 285 Sector FB-X d1-51
+	           B 2 (74231) TWW
+249  20.27 Hyades Sector CB-X c1-15
+	           A 6 (626) TWW
+	           A 5 (427) HMC
+250  22.86 Col 285 Sector IR-V c2-17
+	           C 8 (12853) TWW
+	           C 7 (12852) TWW
+	           C 5 (12952) HMC
+	           C 6 (12953) HMC
+	           C 9 (13095) HMC
+251  24.41 Col 285 Sector IR-V c2-14
+	           B 6 (128548) TWW
+252  33.85 Hyades Sector DB-X c1-6
+	           A 1 (314) TWW
+253   3.34 Hyades Sector DB-X c1-5
+	           2 (410) TWW
+	           1 (318) HMC
+254   6.11 Hyades Sector DB-X c1-3
+	           7 (240) TWW
+255  17.90 Arietis Sector AA-Z b5
+	           6 (77) TWW
+256  20.03 Arietis Sector CQ-Y c17
+	           7 (370) TWW
+	           8 (370) TWW
+	           6 (206) HMC
+257  17.83 Arietis Sector CQ-Y c6
+	           2 (386) TWW
+	           1 (272) HMC
+	           3 (499) HMC
+258  12.21 Arietis Sector IW-W b1-0
+	           4 (169) TWW
+259  12.92 HIP 13035
+	           A 4 (1342) TWW
+	           A 3 (1037) HMC
+	           A 5 (1755) HMC
+260  24.23 Aries Dark Region YF-N b7-2
+	           5 (103) ELW
+	           4 (103) TWW
+261  18.58 Aries Dark Region LS-T c3-12
+	           4 (735) TWW
+	           3 (601) HMC
+	           2 (443) HMC
+262  21.18 Aries Dark Region MS-T c3-13
+	           ABC 1 (272) TWW
+263  28.54 Aries Dark Region ST-Q b5-2
+	           B 1 (129849) ELW
+	           B 2 (129897) TWW
+264  20.26 Aries Dark Region UO-Q b5-0
+	           A 6 (78) TWW
+265  22.67 Aries Dark Region SD-S b4-0
+	           C 1 (2782) TWW
+266  23.78 Aries Dark Region GW-W d1-61
+	           B 7 (4589) TWW
+	           A 9 (887) HMC
+	           A 8 (677) HMC
+	           B 6 (4653) HMC
+	           B 5 (5144) HMC
+267  26.40 Aries Dark Region AQ-O b6-0
+	           CDE 3 (9401) TWW
+268  31.85 Aries Dark Region ON-T c3-3
+	           9 (177) TWW
+269  30.94 Hyades Sector IR-W c1-12
+	           2 (368) TWW
+	           1 (270) HMC
+	           3 (469) HMC
+270  23.65 Aries Dark Region ST-R c4-7
+	           2 (359) TWW
+	           1 (250) HMC
+271  22.15 Aries Dark Region ON-T c3-4
+	           B 5 (52691) TWW
+	           B 4 (53202) HMC
+272  14.45 Aries Dark Region ST-R c4-6
+	           A 2 (385) TWW
+	           A 1 (314) HMC
+273  21.33 Aries Dark Region NN-T c3-3
+	           1 (365) TWW
+274  31.64 Aries Dark Region WU-O b6-0
+	           A 1 (125) TWW
+275  18.13 Aries Dark Region JH-V c2-6
+	           2 (534) TWW
+	           3 (534) HMC
+276  18.32 Pleiades Sector SO-R c4-3
+	           A 1 (190) TWW
+277  31.32 Pleiades Sector GC-L b8-1
+	           4 (52) TWW
+278  36.36 Pleiades Sector MN-T c3-15
+	           A 2 (256) TWW
+	           A 3 (327) HMC
+279  14.27 Ross 374
+	           A 2 (368) TWW
+	           A 3 (469) HMC
+280  11.55 Pleiades Sector OI-T c3-3
+	           A 4 (474) TWW
+281  29.04 Pleiades Sector IH-V c2-11
+	           B 3 (4489) TWW
+	           A 2 (282) HMC
+282  15.71 HIP 17125
+	           A 4 (1120) TWW
+283  17.87 Pleiades Sector HR-W d1-57
+	           A 4 (970) TWW
+	           A 5 (1198) TWW
+284  43.84 Pleiades Sector FW-W d1-63
+	           A 6 (1128) TWW
+	           B 1 (62930) TWW
+	           A 4 (876) HMC
+	           A 5 (1126) HMC
+	           A 7 (1523) HMC
+285  29.16 Pleiades Sector FM-V c2-10
+	           B 5 (5999) TWW
+	           B 6 (5999) TWW
+	           B 7 (6044) TWW
+	           B 4 (5593) HMC
+286  20.73 Pleiades Sector EW-W d1-21
+	           8 (199) TWW
+	           7 (116) HMC
+287   8.61 Pleiades Sector AQ-Y d52
+	           1 (506) ELW
+	           2 (684) TWW
+288  12.97 Pleiades Sector EM-V c2-1
+	           1 (268) TWW
+289  32.69 Synuefai PZ-Z c16-16
+	           A 3 (589) TWW
+	           A 4 (588) HMC
+290  22.49 HIP 15697
+	           B 1 (104952) TWW
+	           A 4 (1478) HMC
+	           A 6 (2666) HMC
+	           A 5 (1767) HMC
+291  19.13 Synuefai TF-Y c17-6
+	           A 6 (339) TWW
+	           BC 3 (27938) TWW
+292  10.81 Synuefai UZ-M d8-24
+	           4 (561) TWW
+	           3 (403) HMC
+	           2 (404) HMC
+293  16.90 Synuefai UZ-M d8-42
+	           10 (846) TWW
+	           8 (681) HMC
+	           9 (684) HMC
+294  14.30 Synuefai UZ-M d8-17
+	           A 9 (1382) TWW
+295  20.46 Col 285 Sector FW-U b3-5
+	           A 1 (65) TWW
+296  35.34 Col 285 Sector DL-X c1-10
+	           A 4 (570) TWW
+	           A 2 (343) HMC
+297  34.52 Col 285 Sector EL-X c1-9
+	           2 (263) TWW
+	           1 (194) HMC
+298  24.68 Pleiades Sector JS-T c3-15
+	           1 (649) TWW
+299  32.61 Pleiades Sector HR-W d1-62
+	           3 (977) TWW
+	           4 (976) HMC
+300  16.84 Aries Dark Region AQ-Y d43
+	           A 3 (1154) TWW
+	           A 4 (1486) TWW
+	           A 2 (897) HMC
+301  35.63 HIP 11981
+	           A 4 (1240) TWW
+	           B 1 (13755) HMC
+302  27.75 Col 285 Sector NS-T c3-9
+	           A 6 (232) TWW
+	           A 4 (163) HMC
+	           A 5 (192) HMC
+303  19.48 Col 285 Sector FB-X d1-39
+	           C 4 (8733) TWW
+	           C 3 (9027) HMC
+304   8.53 Col 285 Sector WJ-P b6-2
+	           A 4 (104) TWW
+305  10.48 Col 285 Sector MX-T c3-10
+	           A 3 (660) TWW
+	           A 2 (472) HMC
+	           A 4 (854) HMC
+306  22.48 Col 285 Sector LX-T c3-13
+	           2 (372) TWW
+	           3 (373) HMC
+307  29.76 HIP 11680
+	           4 (961) ELW
+	           5 (1325) HMC
+308  18.43 Col 285 Sector JC-U c3-10
+	           A 3 (498) TWW
+	           A 4 (498) TWW
+	           A 5 (686) TWW
+	           A 2 (383) HMC
+309  26.09 Col 285 Sector EB-X d1-54
+	           6 (1030) TWW
+	           4 (626) HMC
+	           5 (775) HMC
+310  24.37 Col 285 Sector EB-X d1-62
+	           8 (1390) TWW
+	           7 (1388) HMC
+	           9 (1382) HMC
+311   8.29 Col 285 Sector EB-X d1-63
+	           3 (504) TWW
+	           1 (277) HMC
+	           2 (362) HMC
+312  20.23 Col 285 Sector GM-V d2-100
+	           A 3 (604) TWW
+	           A 1 (318) HMC
+	           A 2 (397) HMC
+313  23.59 Col 285 Sector LN-S c4-22
+	           2 (412) TWW
+	           3 (535) HMC
+	           1 (294) HMC
+314  16.01 Col 285 Sector WA-L b9-1
+	           A 5 (217) TWW
+	           B 4 (3172) HMC
+	           B 3 (3193) HMC
+	           B 5 (3354) HMC
+	           B 6 (3354) HMC
+315   7.47 Te Kaha
+	           A 3 (115) TWW
+	           A 4 (116) HMC
+316   6.27 Col 285 Sector WA-L b9-0
+	           A 1 (51) TWW
+317  17.43 Col 285 Sector MY-Q c5-2
+	           A 4 (195) ELW
+318  20.60 Col 285 Sector KN-S c4-4
+	           A 1 (163) TWW
+319  25.34 Col 285 Sector OT-Q c5-6
+	           4 (257) TWW
+	           3 (196) HMC
+320  15.81 Col 285 Sector GM-V d2-75
+	           D 1 (13707) ELW
+321  14.84 HIP 1673
+	           A 4 (976) TWW
+	           A 3 (974) TWW
+	           A 2 (674) HMC
+322  25.23 Col 285 Sector GM-V d2-91
+	           C 7 (1597) TWW
+	           AB 6 (176) HMC
+323  13.28 Col 285 Sector OT-Q c5-15
+	           2 (413) TWW
+324  23.03 HIP 5440
+	           10 (2936) TWW
+	           8 (1588) HMC
+325  30.50 Col 285 Sector AM-K b9-5
+	           A 6 (114) TWW
+	           A 5 (66) HMC
+326  18.34 Col 285 Sector IH-V d2-45
+	           2 (579) TWW
+	           3 (581) TWW
+	           1 (400) HMC
+327  11.79 Col 285 Sector PO-Q c5-14
+	           A 2 (355) ELW
+	           A 3 (463) HMC
+	           A 4 (466) HMC
+328  30.69 Col 285 Sector KT-G b11-2
+	           AB 2 (62) TWW
+	           AB 1 (35) HMC
+329  20.02 HAT-P-16
+	           5 a (867) TWW
+	           4 (686) HMC
+	           6 (1161) HMC
+330  29.89 Col 285 Sector IH-V d2-84
+	           1 (1174) TWW
+331  26.43 Col 285 Sector NI-S c4-9
+	           A 4 (617) ELW
+332  22.29 HR 540
+	           8 (2208) ELW
+	           6 (1785) HMC
+	           7 (1783) HMC
+333  15.46 Col 285 Sector NI-S c4-6
+	           B 14 (69337) TWW
+	           A 8 (441) HMC
+334  15.26 Col 285 Sector RO-Q c5-9
+	           B 5 (5706) TWW
+	           A 1 (173) HMC
+	           A 3 (325) HMC
+	           A 2 (235) HMC
+335  11.87 6 Persei
+	           4 (3347) TWW
+	           3 (2514) HMC
+336  22.64 Arietis Sector ZU-Y c14
+	           1 (330) TWW
+337  11.01 Arietis Sector ZU-Y c10
+	           1 (281) TWW
+	           2 (280) HMC
+	           3 (365) HMC
+338  26.31 Col 285 Sector PD-S c4-3
+	           C 4 (3016) ELW
+339  33.90 Arietis Sector DL-Y d101
+	           B 9 (3716) TWW
+340  23.64 Arietis Sector NY-R b4-2
+	           A 4 (153) ELW
+341  19.35 Col 285 Sector TJ-Q c5-7
+	           9 (206) TWW
+	           8 (144) HMC
+342  40.38 HIP 6668
+	           2 (1082) TWW
+	           1 (773) HMC
+343  25.49 Pegasi Sector DA-Z b4
+	           B 4 (209126) TWW
+344  17.67 Col 285 Sector WE-Q c5-11
+	           A 1 (398) ELW
+345  24.62 HIP 7570
+	           1 (268) TWW
+	           2 (269) HMC
+346  28.51 HIP 6869
+	           6 (1406) TWW
+	           5 (993) HMC
+347  27.87 Parakana
+	           10 (131) TWW
+348  13.61 Arietis Sector VO-R b4-1
+	           A 4 (93) TWW
+349   6.30 Arietis Sector VO-R b4-2
+	           6 (127) TWW
+350   6.55 HIP 10921
+	           B 3 (1715) TWW
+	           B 4 (1961) HMC
+	           B 5 (1961) HMC
+351  22.88 HIP 11329
+	           A 9 (1000) TWW
+352  16.32 Arietis Sector FG-Y d68
+	           B 6 (5995) TWW
+	           B 5 (6157) HMC
+	           B 4 (6157) HMC
+	           B 2 (6600) HMC
+	           B 3 (6600) HMC
+353  11.51 26 Arietis
+	           10 (2620) TWW
+	           9 (2105) TWW
+	           8 (1523) HMC
+354  16.98 HIP 10652
+	           2 (569) TWW
+	           1 (431) HMC
+355  32.35 Arietis Sector DL-Y c4
+	           A 6 (483) TWW
+	           A 5 (287) HMC
+356  15.46 Arietis Sector KC-V b2-4
+	           1 (121) TWW
+	           2 (160) HMC
+357  21.82 Col 285 Sector LC-V d2-85
+	           5 (1163) TWW
+358  21.71 Aries Dark Region OY-R c4-17
+	           A 4 (427) TWW
+359  21.36 Aries Dark Region LS-T c3-17
+	           A 5 (362) TWW
+	           A 6 (439) TWW
+360  39.65 Arietis Sector DL-Y d62
+	           5 (832) TWW
+	           4 (601) HMC
+361  31.38 Arietis Sector DL-Y d73
+	           5 (548) TWW
+362  12.34 Arietis Sector DL-Y d60
+	           4 (1073) TWW
+	           5 (1072) HMC
+363  12.19 Arietis Sector HM-V b2-4
+	           10 (121) TWW
+	           9 (76) HMC
+364  20.19 HIP 12790
+	           A 2 (177) TWW
+365  31.85 HIP 15204
+	           9 (2351) TWW
+	           7 (1437) HMC
+	           8 (1837) HMC
+366  15.03 Arietis Sector CL-X b1-2
+	           B 3 (3347) TWW
+	           B 2 (3255) HMC
+	           A 3 (111) HMC
+367  30.76 HIP 17326
+	           B 4 (5815) TWW
+	           A 6 (511) HMC
+	           A 7 (886) HMC
+	           B 2 (5996) HMC
+	           B 3 (5957) HMC
+368  24.88 Wolf 202
+	           9 b (2880) TWW
+	           9 a (2885) HMC
+369  13.10 Arietis Sector CG-X c1-13
+	           2 (398) TWW
+	           1 (292) HMC
+370  13.94 Irandan
+	           1 (364) TWW
+371  31.08 Qawasing
+	           1 (242) TWW
+372  27.52 HIP 11410
+	           3 (169) TWW
+	           2 (127) HMC
+373  25.74 Col 285 Sector NY-Q c5-18
+	           4 (232) TWW
+	           2 (181) HMC
+	           3 (234) HMC
+374  17.06 HIP 12132
+	           A 4 (1765) TWW
+	           B 3 (36754) HMC
+375  28.35 Col 285 Sector JS-S c4-6
+	           8 (521) ELW
+	           6 (369) HMC
+	           7 (370) HMC
+376  21.82 Col 285 Sector FM-U c3-12
+	           B 7 (72077) TWW
+	           B 6 (71558) HMC
+377  12.36 Moai 1
+	           B 10 (85024) TWW
+	           A 8 (2998) HMC
+	           B 9 (83497) HMC
+	           B 8 (84087) HMC
+378  28.29 Col 285 Sector HM-V d2-89
+	           D 3 (24312) TWW
+	           D 2 (24816) HMC
+	           D 1 (24529) HMC
+	           ABC 4 (694) HMC
+	           ABC 5 (692) HMC
+379  21.02 Hyades Sector FI-R b5-2
+	           C 2 (4041) TWW
+380  11.43 HIP 19030
+	           5 (1621) ELW
+	           4 (1616) TWW
+381  15.00 HIP 20541
+	           3 (1399) TWW
+382  15.43 Hyades Sector YV-U b3-5
+	           C 1 (2969) TWW
+383  16.57 Hyades Sector YU-Y d69
+	           2 (1015) TWW
+	           1 (680) HMC
+384  15.83 HIP 22817
+	           4 (929) TWW
+	           3 (646) HMC
+385  15.68 Hyades Sector AL-X c1-9
+	           A 1 (353) TWW
+	           A 2 (498) HMC
+386  13.97 Hyades Sector ZK-X c1-23
+	           A 1 (296) TWW
+387  28.03 HIP 23709
+	           B 7 (17280) TWW
+	           B 6 (17030) HMC
+388  16.03 HIP 24232
+	           6 (1178) TWW
+	           5 (898) HMC
+389  21.18 Hyades Sector XE-Z c14
+	           CD 3 (1967) TWW
+	           CD 4 (1967) HMC
+	           CD 1 (2030) HMC
+	           CD 2 (2040) HMC
+390   8.75 Hyades Sector XE-Z c17
+	           A 4 (444) ELW
+	           A 3 (254) HMC
+	           B 9 (9555) HMC
+391   9.98 Hyades Sector BQ-Y d76
+	           3 (962) TWW
+	           4 (961) TWW
+392  31.76 HIP 22718
+	           3 (830) TWW
+	           2 (562) HMC
+393  35.45 HIP 21105
+	           A 8 (599) TWW
+	           A 7 (429) HMC
+394  30.41 HIP 19136
+	           D 3 (110555) TWW
+	           D 2 (110282) TWW
+	           D 1 (110347) HMC
+395  12.88 HIP 18320
+	           7 (1106) TWW
+	           6 (642) HMC
+	           5 (640) HMC
+396  21.62 Arietis Sector ZJ-A c14
+	           C 5 (7183) TWW
+	           AB 6 (465) HMC
+	           AB 7 (824) HMC
+	           C 4 (7374) HMC
+	           C 3 (7137) HMC
+	           C 2 (7175) HMC
+	           C 6 (7196) HMC
+397  13.22 Hyades Sector LX-T b3-0
+	           6 (61) TWW
+398  21.04 Arietis Sector IB-X b1-4
+	           A 5 (107) TWW
+399  12.13 Arietis Sector AF-A d93
+	           3 (995) TWW
+	           2 (748) HMC
+400  21.28 Arietis Sector FL-Y c7
+	           A 1 (373) ELW
+401  20.43 Arietis Sector GL-Y c17
+	           A 3 (507) TWW
+402  20.19 Hyades Sector HR-W d1-54
+	           A 3 (728) TWW
+403  35.58 HIP 19217
+	           7 (1030) ELW
+	           5 (680) HMC
+	           6 (680) HMC
+404  20.31 Hyades Sector GB-X c1-16
+	           2 (495) TWW
+	           1 (288) HMC
+405  22.42 Hyades Sector FB-X c1-18
+	           6 (185) TWW
+406  24.38 HIP 22782
+	           4 (1402) TWW
+	           5 (1397) TWW
+	           3 (1051) HMC
+407  24.37 Hyades Sector DG-X c1-7
+	           A 4 (190) TWW
+	           A 5 (265) HMC
+408  27.83 Hyades Sector FR-V c2-14
+	           2 (454) TWW
+	           1 (307) HMC
+409  13.48 Hyades Sector KX-S b4-1
+	           A 5 (145) TWW
+	           A 4 (97) HMC
+	           BC 1 (2038) HMC
+410  26.85 Hyades Sector IC-T b4-2
+	           A 6 (131) TWW
+	           B 3 (998) TWW
+	           B 2 (914) HMC
+411   9.93 Hyades Sector IC-T b4-5
+	           A 7 (76) TWW
+412  37.83 Hyades Sector BL-X c1-12
+	           A 5 (300) TWW
+	           A 2 (160) HMC
+	           A 3 (231) HMC
+	           A 4 (231) HMC
+413  26.78 Hyades Sector AL-X c1-21
+	           AB 1 (457) ELW
+	           AB 2 (388) HMC
+	           D 2 (16027) HMC
+	           D 1 (16027) HMC
+414  10.36 Hyades Sector AL-X c1-22
+	           7 (355) TWW
+	           8 (356) HMC
+	           6 (256) HMC
+415  29.00 HIP 24005
+	           A 1 (645) TWW
+	           A 2 (644) HMC
+416   1.30 HIP 24016
+	           D 4 (339053) TWW
+	           D 5 (339015) HMC
+	           D 3 (339776) HMC
+417  29.80 HIP 22350
+	           A 6 (423) TWW
+	           A 5 (335) HMC
+	           BC 2 (2524) HMC
+	           BC 1 (2599) HMC
+418  16.60 HIP 21261
+	           3 (202) TWW
+419   8.35 HIP 20577
+	           6 (743) TWW
+420   5.27 HIP 20815
+	           2 (749) TWW
+	           1 (530) HMC
+	           3 (750) HMC
+421   6.14 HIP 20850
+	           A 5 (477) TWW
+	           A 4 (279) HMC
+	           A 6 (477) HMC
+422  18.56 HIP 20130
+	           B 1 (5083) TWW
+423  17.56 HIP 19793
+	           AB 1 (1007) TWW
+	           C 9 (17164) TWW
+	           C 8 (17164) HMC
+424  22.48 51 Tauri
+	           A 4 (2476) TWW
+425  13.90 HIP 19789
+	           6 (1048) ELW
+426  24.22 HIP 20626
+	           B 1 (238753) TWW
+427  48.42 66 Arietis
+	           4 a (1729) TWW
+	           4 (1728) HMC
+428  22.65 Arietis Sector GG-Y d79
+	           AB 1 (668) TWW
+429  10.59 Arietis Sector JW-W b1-4
+	           2 (44) TWW
+430  45.48 Arietis Sector GG-Y d68
+	           2 (992) TWW
+431  10.77 HIP 10972
+	           AB 1 (604) ELW
+432  26.55 HIP 10047
+	           12 (1569) ELW
+	           9 (898) HMC
+	           10 (1127) HMC
+	           11 (1132) HMC
+433  19.87 Hyades Sector QD-T c3-7
+	           B 1 (82106) TWW
+	           A 1 (298) HMC
+	           A 2 (380) HMC
+434   8.19 Hyades Sector QD-T c3-9
+	           9 (295) TWW
+	           8 (227) HMC
+	           10 (296) HMC
+435  37.10 HR 875
+	           3 f (4080) TWW
+436  29.55 Yanoi
+	           1 (473) TWW
+437  29.14 Capai
+	           C 2 (63305) TWW
+438  26.65 Rutera
+	           B 1 (115360) TWW
+439  44.13 Hyades Sector KH-M b7-2
+	           4 (52) TWW
+440  21.05 Hyades Sector SD-T c3-17
+	           5 (542) TWW
+	           3 (434) HMC
+	           4 (434) HMC
+441  10.30 HIP 15940
+	           A 7 (1084) TWW
+442  15.17 Hyades Sector IR-W d1-51
+	           5 (896) TWW
+	           3 (673) HMC
+	           4 (672) HMC
+443  26.15 HIP 15734
+	           A 2 (629) TWW
+	           A 1 (376) HMC
+444  27.40 HIP 14138
+	           8 (564) TWW
+	           7 (382) HMC
+445  27.39 HIP 13831
+	           2 (1084) TWW
+	           1 (743) HMC
+446  25.84 HIP 12341
+	           3 (753) ELW
+	           2 (570) HMC
+	           4 (950) HMC
+447  16.07 Col 285 Sector GQ-P c5-1
+	           1 (474) TWW
+448  15.37 HIP 11398
+	           1 (618) TWW
+449  24.32 Col 285 Sector TD-T d3-64
+	           2 (530) TWW
+	           1 (364) HMC
+450  12.54 Col 285 Sector TD-T d3-63
+	           A 3 (890) TWW
+451   7.52 Col 285 Sector US-B b13-1
+	           6 (113) TWW
+452  35.34 HIP 9837
+	           2 (1376) ELW
+453  23.09 HIP 8360
+	           A 14 (1542) TWW
+454  32.92 Col 285 Sector IW-N c6-1
+	           2 (413) ELW
+	           3 (411) HMC
+455  27.46 Baten Kaitos
+	           B 2 (14192) TWW
+	           B 5 (13545) HMC
+	           B 3 (14192) HMC
+	           B 4 (14271) HMC
+	           B 1 (14723) HMC
+456  28.14 Col 285 Sector DV-P c5-7
+	           A 2 (441) TWW
+	           B 2 (52453) TWW
+	           A 1 (317) HMC
+	           B 1 (52305) HMC
+457  21.74 Col 285 Sector EF-H b10-3
+	           A 2 (54) TWW
+	           A 1 (36) HMC
+458  16.58 Col 285 Sector FF-H b10-0
+	           5 (87) TWW
+459  40.80 Hyades Sector KR-N b6-3
+	           4 (126) TWW
+460  31.45 HIP 13849
+	           CD 2 (2395) TWW
+	           CD 3 (2382) TWW
+461  40.54 Col 285 Sector IB-O c6-3
+	           C 1 (91033) TWW
+462  26.79 HIP 12167
+	           5 (883) TWW
+463  23.04 Cornae
+	           8 (112) TWW
+464  46.85 Laksmi
+	           1 (266) TWW
+465  19.94 Pi Sculptoris
+	           9 (3756) TWW
+466  17.10 Selisao Jiu
+	           A 8 (233) TWW
+467   6.83 HIP 7526
+	           1 (228) ELW
+468  31.81 HIP 4892
+	           A 1 (691) TWW
+	           B 1 (192052) HMC
+469  29.94 Jemede
+	           1 (575) ELW
+470  41.57 Vadimui
+	           A 1 (365) TWW
+471  31.06 Dimshi
+	           A 2 (51) TWW
+472   9.36 Abe
+	           1 (386) TWW
+473  32.46 Lu Yai
+	           A 5 (109) TWW
+474  15.25 HIP 1134
+	           B 2 (142449) TWW
+	           B 1 (142448) HMC
+475  24.51 Velabiani
+	           1 (736) ELW
+476  14.02 Wongxian Yi
+	           8 (139) TWW
+477  20.11 HIP 115951
+	           4 (827) TWW
+478  17.61 Ceti Sector CL-Y d57
+	           C 6 (22504) TWW
+479  13.49 Ceti Sector CL-Y d55
+	           3 (931) TWW
+480  27.31 Pegasi Sector JW-W c1-21
+	           A 1 (284) TWW
+481  21.97 HIP 759
+	           B 4 (5822) TWW
+	           B 2 (5620) HMC
+	           B 3 (5828) HMC
+	           B 5 (5704) HMC
+482  22.28 Pegasi Sector EL-Y d54
+	           A 8 (869) TWW
+	           A 7 (654) HMC
+	           B 1 (5936) HMC
+	           A 6 (502) HMC
+483  24.60 Pegasi Sector FB-X c1-15
+	           2 (552) TWW
+484  25.52 HIP 753
+	           2 (370) ELW
+	           1 (294) HMC
+485  31.62 HIP 116360
+	           3 (861) ELW
+	           4 (1212) HMC
+486  28.51 HIP 112475
+	           9 (1147) TWW
+487  16.85 HIP 111081
+	           2 (1075) TWW
+	           1 (604) HMC
+488  26.68 Pegasi Sector FR-V c2-12
+	           8 (461) TWW
+489  25.54 Madjandji
+	           3 (216) TWW
+490  33.91 Pegasi Sector IX-T c3-28
+	           2 (415) TWW
+	           1 (288) HMC
+491  28.50 Pegasi Sector IX-T c3-12
+	           1 (390) TWW
+492  27.14 Col 285 Sector ES-J c9-33
+	           A 9 (718) TWW
+	           A 8 (392) HMC
+493  18.19 HIP 101142
+	           5 (970) TWW
+494  26.78 Col 285 Sector AO-V b17-3
+	           3 (125) TWW
+495   9.29 Col 285 Sector AO-V b17-4
+	           A 3 (226) TWW
+496  11.30 Col 285 Sector CX-J c9-8
+	           A 3 (637) ELW
+	           A 4 (636) TWW
+	           A 2 (452) HMC
+	           B 5 (8957) HMC
+	           B 6 (8252) HMC
+	           B 2 (9614) HMC
+	           B 3 (9614) HMC
+	           B 4 (8757) HMC
+	           C 3 (88949) HMC
+	           C 4 (89108) HMC
+497  12.55 HIP 95631
+	           A 2 (606) TWW
+	           A 1 (454) HMC
+	           B 2 (36799) HMC
+	           B 3 (36806) HMC
+498  22.20 HIP 95362
+	           3 (1294) TWW
+499   9.18 Col 285 Sector DX-J c9-17
+	           A 4 (275) TWW
+500   9.17 Col 285 Sector DX-J c9-14
+	           A 1 (324) TWW
+501  22.59 Col 285 Sector BC-K c9-13
+	           1 (308) TWW
+	           2 (434) HMC
+502  37.95 Col 285 Sector CC-K c9-20
+	           A 3 (226) TWW
+503  33.15 HIP 84816
+	           4 (131) TWW
+504  27.39 Bare
+	           1 (308) ELW
+505   8.77 Atjirajan
+	           3 (135) TWW
+506  28.60 Pontii
+	           3 (352) TWW
+507   6.64 HIP 91507
+	           3 (762) TWW
+	           2 (762) TWW
+508  13.01 Tsuki Yomi
+	           3 (116) TWW
+509  24.05 Col 285 Sector TE-Q d5-97
+	           3 (1315) TWW
+	           2 (1012) HMC
+510  17.35 HR 7280
+	           B 1 (28004) TWW
+511  18.26 Mehitak
+	           3 (64) TWW
+512  18.01 HIP 98894
+	           1 (822) TWW
+513  16.14 Bolon Huara
+	           4 (73) TWW
+514  18.95 Col 285 Sector KY-H c10-13
+	           B 4 (89681) TWW
+	           B 3 (89667) HMC
+515  30.76 Col 285 Sector JY-H c10-19
+	           A 2 (320) TWW
+	           A 1 (224) HMC
+516  30.35 Col 285 Sector JY-H c10-17
+	           7 (310) TWW
+517  24.18 Col 285 Sector TE-Q d5-107
+	           A 8 (771) ELW
+	           B 8 (57012) ELW
+	           C 2 (54560) HMC
+	           C 1 (54530) HMC
+	           B 6 (56839) HMC
+	           B 7 (57012) HMC
+518  34.81 Ither
+	           1 (351) TWW
+519  34.08 19 Aquilae
+	           A 7 (3008) ELW
+	           A 5 (2452) HMC
+	           A 6 (2456) HMC
+	           B 2 (508338) HMC
+520  32.37 Col 285 Sector TK-E c12-27
+	           6 (613) TWW
+521  23.23 Col 285 Sector RP-E c12-9
+	           1 (326) TWW
+	           2 (325) HMC
+522  17.58 HIP 88924
+	           A 1 (384) TWW
+523  15.53 Col 285 Sector YK-O d6-111
+	           3 (168) TWW
+524  26.63 Col 285 Sector YK-O d6-94
+	           2 (698) TWW
+	           1 (542) HMC
+	           3 (697) HMC
+525  17.63 HIP 90869
+	           C 1 (36199) TWW
+526  13.99 Col 285 Sector WF-E c12-12
+	           2 (464) TWW
+	           1 (339) HMC
+527  34.53 Col 285 Sector VK-E c12-24
+	           4 (171) TWW
+528  17.00 Col 285 Sector XW-G b25-0
+	           C 4 (3261) TWW
+529  22.09 Col 285 Sector ZQ-C c13-20
+	           A 6 (514) TWW
+530  15.58 Col 285 Sector YK-O d6-126
+	           5 a (1252) TWW
+	           3 (737) HMC
+	           4 (740) HMC
+531  23.12 HIP 88683
+	           6 (1456) TWW
+532  28.34 Col 285 Sector YK-O d6-92
+	           4 (1449) TWW
+	           3 (896) HMC
+533  13.59 HIP 84497
+	           3 (781) TWW
+	           1 (426) HMC
+	           2 (534) HMC
+534  14.22 HIP 84684
+	           1 (313) TWW
+	           2 (393) TWW
+535  17.35 Scorpii Sector CL-Y d75
+	           7 (1294) TWW
+	           6 (873) HMC
+536  35.65 HIP 90212
+	           AB 1 (798) TWW
+537  22.66 HIP 90590
+	           ABC 5 (983) TWW
+	           ABC 3 (725) HMC
+	           ABC 4 (725) HMC
+538  23.85 HIP 94275
+	           2 (455) TWW
+	           1 (326) HMC
+539  31.72 Kikapu
+	           1 (224) TWW
+540   8.60 Karamayayak
+	           2 (315) TWW
+541  16.90 HIP 99046
+	           A 10 (1176) TWW
+	           A 8 (897) HMC
+	           A 9 (894) HMC
+	           A 11 (1173) HMC
+542  48.10 Capricorni Sector MX-U c2-21
+	           1 (451) TWW
+543  18.00 25 chi Capricorni
+	           B 3 (207171) TWW
+	           A 5 (1985) HMC
+	           B 2 (207404) HMC
+544  16.89 b Capricorni
+	           7 (3429) TWW
+545  37.22 Capricorni Sector MX-U c2-8
+	           CD 4 (3222) ELW
+	           CD 5 (3413) HMC
+546  39.74 Col 285 Sector BR-D c12-21
+	           A 3 (697) TWW
+	           A 2 (398) HMC
+547  24.13 Col 285 Sector FD-H b24-3
+	           8 (100) TWW
+	           9 (118) HMC
+548  52.43 Col 285 Sector WK-F c11-18
+	           C 1 (69595) ELW
+549  31.53 Col 285 Sector BB-O d6-100
+	           B 6 (7193) TWW
+	           A 4 (790) HMC
+	           A 3 (577) HMC
+	           B 5 (6927) HMC
+	           B 3 (6975) HMC
+	           B 4 (6975) HMC
+550  49.44 Col 285 Sector ZQ-D c12-16
+	           1 (288) TWW
+	           2 (400) HMC
+	           3 (400) HMC
+551  38.89 Col 285 Sector BM-D c12-2
+	           C 4 (22310) ELW
+552  30.63 Synuefai RG-E c28-12
+	           B 7 (8546) TWW
+553  50.52 Synuefai XA-C d14-60
+	           4 (1001) TWW
+	           5 (1002) HMC
+554  50.99 Synuefai VB-E c28-6
+	           B 1 (110012) TWW
+555  36.88 HIP 111013
+	           A 3 (734) TWW
+	           A 4 (966) HMC
+	           A 2 (565) HMC
+556  28.34 Synuefe JM-G b57-0
+	           3 (79) TWW
+	           4 (79) TWW
+557  40.12 Synuefe RA-E c28-8
+	           3 (565) TWW
+	           1 (330) HMC
+	           2 (441) HMC
+558  10.83 Synuefe RA-E c28-3
+	           3 (216) ELW
+559  50.22 HIP 108915
+	           1 (344) ELW
+	           2 (435) TWW
+560  19.34 Tucanae Sector DL-Y d67
+	           B 6 (8164) TWW
+	           A 7 (966) HMC
+	           B 4 (8327) HMC
+	           B 5 (7948) HMC
+561  14.17 Tucanae Sector DL-Y d58
+	           3 a (729) TWW
+562  33.98 Tucanae Sector HR-W d1-66
+	           A 4 (1103) TWW
+	           B 3 (7769) TWW
+	           A 3 (808) HMC
+	           A 2 (582) HMC
+	           B 4 (7775) HMC
+	           B 2 (7768) HMC
+	           B 1 (8621) HMC
+563  34.96 Tucanae Sector NI-T c3-14
+	           1 (283) TWW
+564  34.41 Swoilz CY-E c2
+	           A 6 (522) TWW
+	           A 7 (522) TWW
+	           A 5 (338) HMC
+565  43.02 HIP 104633
+	           3 (448) TWW
+566  60.62 HIP 102872
+	           B 1 (32493) TWW
+	           A 5 (932) HMC
+567  37.23 Synuefe ON-D b59-2
+	           A 5 (62) TWW
+568  42.69 HIP 101591
+	           3 (874) TWW
+	           2 (596) HMC
+569  17.22 Col 285 Sector PU-D b26-0
+	           A 3 (114) TWW
+570  42.68 Col 285 Sector EC-C c13-23
+	           4 (637) ELW
+	           2 (325) HMC
+	           3 (427) HMC
+571  42.11 Col 285 Sector CH-C c13-25
+	           2 (463) TWW
+	           1 (463) HMC
+572  18.35 HR 7398
+	           B 1 (15293) TWW
+	           A 6 (2307) HMC
+	           B 2 (15377) HMC
+573  16.58 Col 285 Sector GN-A c14-18
+	           A 3 (697) TWW
+574  21.56 47 chi Sagittarii
+	           5 (3490) TWW
+575  18.06 Col 285 Sector EM-M d7-75
+	           B 10 (23263) TWW
+	           B 11 (22159) TWW
+576  36.09 Col 285 Sector EM-M d7-87
+	           6 (1423) TWW
+577  31.50 Col 285 Sector HN-A c14-19
+	           ABC 1 (764) TWW
+578  23.91 Col 285 Sector NF-B b28-10
+	           3 (38) TWW
+579   6.07 Col 285 Sector EM-M d7-79
+	           7 (1207) ELW
+	           5 (651) HMC
+	           6 (651) HMC
+580  39.18 HIP 92427
+	           D 4 (182952) ELW
+	           E 4 (177153) TWW
+	           E 3 (177280) HMC
+581  14.94 Col 285 Sector ET-E b26-7
+	           6 (125) TWW
+	           5 (73) HMC
+582  27.38 Col 285 Sector DH-C c13-21
+	           6 (531) ELW
+583  19.22 Col 285 Sector HN-A c14-24
+	           2 (474) TWW
+	           1 (334) HMC
+584  30.71 Col 285 Sector CB-O d6-88
+	           4 (520) ELW
+585  23.91 Col 285 Sector BG-O d6-81
+	           6 (1031) TWW
+586  35.73 Gliese 724.1
+	           DE 2 (3719) TWW
+587  28.11 HIP 94310
+	           2 (516) TWW
+	           1 (515) HMC
+588  12.57 Col 285 Sector BG-O d6-92
+	           A 3 (907) ELW
+589  16.30 Oppida
+	           AB 3 (496) TWW
+590  35.49 Hupanga
+	           8 (302) TWW
+591  40.61 HIP 104838
+	           A 5 (1584) ELW
+	           A 6 (2052) TWW
+592  43.21 Basuk
+	           6 (488) TWW
+593  41.22 Kovae
+	           A 2 (123) TWW
+594  23.31 HIP 108375
+	           2 (1004) TWW
+595  17.64 HIP 110084
+	           A 7 (607) TWW
+596   8.41 17 Beta Piscis Austrini
+	           C 1 (35748) TWW
+	           C 2 (35746) TWW
+597  19.57 HIP 110695
+	           B 1 (7322) TWW
+598  36.97 Skat
+	           B 7 (45994) TWW
+599  40.43 Col 285 Sector TO-R d4-70
+	           A 4 (971) TWW
+	           BC 1 (41542) TWW
+	           A 3 (555) HMC
+600  11.48 Col 285 Sector EX-R b18-1
+	           6 (71) TWW
+601  18.27 HIP 112494
+	           4 (1059) TWW
+602  34.34 Pegasi Sector IR-W d1-69
+	           A 1 (144) TWW
+603  13.20 Pegasi Sector IR-W d1-65
+	           2 (563) TWW
+	           1 (399) HMC
+604  34.59 Pegasi Sector HM-M b7-4
+	           A 3 (119) TWW
+	           A 2 (89) HMC
+	           BC 1 (1741) HMC
+605  30.48 HIP 109355
+	           B 1 (11439) TWW
+606  33.85 Pegasi Sector MN-T c3-5
+	           2 (513) TWW
+	           1 (376) HMC
+607  20.99 Pegasi Sector MN-T c3-13
+	           7 (195) TWW
+608  36.93 HR 8482
+	           A 4 (2880) TWW
+	           A 3 (2204) HMC
+609  23.64 Pegasi Sector MD-S b4-4
+	           B 1 (2093) TWW
+610  36.25 Pegasi Sector DB-X c1-15
+	           A 6 (236) TWW
+611  46.69 Col 285 Sector DT-X b15-8
+	           5 (149) ELW
+	           3 (73) HMC
+	           4 (100) HMC
+612  11.67 Col 285 Sector YV-M c7-5
+	           2 (447) TWW
+	           1 (325) HMC
+613  11.24 Col 285 Sector AY-X b15-1
+	           7 (125) TWW
+614  19.15 Col 285 Sector BY-X b15-5
+	           B 2 (2996) TWW
+	           B 1 (3039) HMC
+615  20.36 Col 285 Sector DJ-W b16-9
+	           A 1 (109) TWW
+616  23.32 Col 285 Sector FE-W b16-9
+	           A 3 (42) TWW
+617  20.58 Col 285 Sector GI-J c9-26
+	           A 4 (512) ELW
+	           A 3 (353) HMC
+618  16.12 Col 285 Sector PT-R d4-101
+	           8 (724) TWW
+	           7 (548) HMC
+	           6 (429) HMC
+619  36.17 Col 285 Sector GI-J c9-19
+	           5 (229) TWW
+620  30.81 Col 285 Sector TZ-P d5-89
+	           A 3 (559) ELW
+	           A 2 (399) HMC
+621  21.54 Col 285 Sector TZ-P d5-35
+	           A 5 (2302) TWW
+	           A 4 (1614) HMC
+622  24.13 Col 285 Sector TZ-P d5-101
+	           5 (859) TWW
+623  29.01 HIP 104094
+	           5 (866) TWW
+	           6 (866) TWW
+624  11.47 Col 285 Sector VC-P b20-8
+	           A 5 (62) TWW
+625  21.45 Col 285 Sector TZ-P d5-57
+	           3 (1289) TWW
+	           4 (1738) HMC
+	           2 (968) HMC
+626  30.80 Col 285 Sector JT-H c10-19
+	           B 1 (5834) TWW
+	           A 1 (189) HMC
+627  27.70 Col 285 Sector KT-H c10-14
+	           A 1 (355) TWW
+628  21.74 Pegasi Sector KS-T c3-5
+	           ABC 2 (350) TWW
+629  45.89 Col 285 Sector LO-H c10-21
+	           A 4 (250) ELW
+630  56.70 Col 285 Sector NL-R b19-1
+	           5 (141) TWW
+	           6 (141) HMC
+631  19.53 HIP 103239
+	           B 3 (8199) TWW
+	           B 2 (8378) HMC
+632  25.71 Col 285 Sector NY-R d4-105
+	           A 1 (436) TWW
+633  21.80 Col 285 Sector ZL-L c8-20
+	           A 7 (346) TWW
+	           A 6 (200) HMC
+	           A 8 (344) HMC
+634  29.75 Col 285 Sector NY-R d4-33
+	           10 (543) TWW
+	           9 (442) HMC
+635  18.96 Col 285 Sector NY-R d4-61
+	           1 (739) TWW
+636  42.03 Col 285 Sector VQ-L c8-27
+	           4 (191) TWW
+637  23.30 Col 285 Sector VQ-L c8-28
+	           1 (260) TWW
+638  29.48 HIP 99388
+	           9 (1738) TWW
+639  29.58 Col 285 Sector ZW-J c9-2
+	           4 (432) TWW
+640  23.55 Col 285 Sector YW-J c9-16
+	           1 (370) TWW
+641  38.66 Col 285 Sector WT-T b18-5
+	           7 (96) TWW
+642  45.66 HIP 98728
+	           6 (2657) TWW
+	           7 (2649) HMC
+643  18.23 Col 285 Sector CD-I c10-7
+	           2 (251) TWW
+644  26.55 Col 285 Sector JB-Q b20-0
+	           7 (116) TWW
+645  10.62 HIP 98649
+	           CD 2 (9759) TWW
+	           CD 1 (9817) HMC
+	           CD 3 (10218) HMC
+	           CD 4 (10296) HMC
+646  17.01 Col 285 Sector DD-I c10-8
+	           7 (285) TWW
+647  35.17 Col 285 Sector KE-G c11-38
+	           A 2 (436) TWW
+648   8.32 HIP 98876
+	           A 4 (857) TWW
+	           A 3 (631) HMC
+649  32.13 HIP 100465
+	           A 3 (1032) TWW
+	           A 2 (729) HMC
+650  35.36 Col 285 Sector SZ-P d5-68
+	           AB 2 (1557) ELW
+	           C 6 (43032) TWW
+	           AB 1 (1180) HMC
+	           C 4 (43719) HMC
+	           C 5 (43719) HMC
+	           C 2 (42701) HMC
+	           C 3 (42701) HMC
+651  23.31 Col 285 Sector QE-Q d5-114
+	           B 2 (15721) TWW
+	           A 5 (876) HMC
+	           A 6 (1147) HMC
+	           A 7 (1610) HMC
+	           B 1 (15350) HMC
+652  10.25 Col 285 Sector OC-O b21-3
+	           3 (53) TWW
+653  39.97 Col 285 Sector QE-Q d5-38
+	           AB 1 (415) ELW
+654  13.34 Col 285 Sector QE-Q d5-66
+	           A 6 (945) ELW
+655  14.09 Col 285 Sector BS-J c9-34
+	           ABC 3 (786) ELW
+656  13.15 Col 285 Sector MY-R d4-28
+	           B 5 (10430) TWW
+	           B 7 (9960) TWW
+	           B 6 (9958) HMC
+	           B 4 (9893) HMC
+657  28.38 HIP 100767
+	           B 1 (90633) TWW
+	           A 2 (801) HMC
+658  54.00 Wredguia MC-D d12-65
+	           A 4 (1266) TWW
+	           A 3 (922) HMC
+	           A 5 (1591) HMC
+659  47.46 HIP 104334
+	           8 (1868) ELW
+	           6 (1081) HMC
+	           7 (1437) HMC
+660  27.47 Synuefai OV-S b51-5
+	           11 (116) TWW
+661  48.68 HIP 106915
+	           A 7 (1563) TWW
+	           A 8 (1561) TWW
+662  27.28 Synuefai WX-J c25-7
+	           A 1 (356) TWW
+	           A 2 (355) HMC
+663  57.09 Col 285 Sector DX-K c8-11
+	           B 6 (3597) TWW
+	           B 7 (3694) HMC
+	           B 8 (3694) HMC
+664  73.91 Col 285 Sector CM-M c7-5
+	           10 (516) TWW
+665  47.91 Col 285 Sector ZF-O c6-15
+	           A 2 (441) TWW
+666  22.74 Col 285 Sector BH-C b13-4
+	           A 5 (91) TWW
+667  40.38 HIP 617
+	           4 (973) TWW
+	           3 (722) HMC
+668  28.28 Col 285 Sector VZ-P c5-2
+	           5 (368) TWW
+	           4 (299) HMC
+669  30.22 Col 285 Sector KC-V d2-29
+	           A 3 (929) TWW
+670  25.10 Col 285 Sector KC-V d2-32
+	           1 (871) TWW
+	           2 (871) HMC
+671  41.18 Col 285 Sector GX-J b9-0
+	           5 (82) TWW
+672  28.37 Col 285 Sector ND-S c4-3
+	           2 (433) ELW
+	           4 (727) TWW
+673  32.45 Col 285 Sector HH-V d2-60
+	           B 5 (4205) TWW
+674  35.72 HIP 5674
+	           9 (1718) TWW
+	           8 (1274) HMC
+675  27.68 Col 285 Sector HC-U c3-5
+	           7 (283) TWW
+676  18.56 HIP 6295
+	           AB 2 (1564) ELW
+	           AB 1 (1237) HMC
+677  25.42 Col 285 Sector JN-S c4-20
+	           9 (383) TWW
+	           8 (263) HMC
+678  15.87 Col 285 Sector FM-V d2-68
+	           1 (815) TWW
+679  19.77 Col 285 Sector BG-X d1-41
+	           2 (378) TWW
+680  17.64 Col 285 Sector BG-X d1-100
+	           B 2 (10657) TWW
+	           B 1 (10741) HMC
+681  14.67 Col 285 Sector BG-X d1-80
+	           A 8 (353) TWW
+682  12.51 Col 285 Sector BG-X d1-65
+	           2 (353) TWW
+	           1 (271) HMC
+683  27.18 Col 285 Sector KN-S c4-19
+	           7 (433) TWW
+	           6 (254) HMC
+684  19.34 Col 285 Sector GH-U c3-1
+	           B 6 (29420) TWW
+685  29.10 Col 285 Sector GH-U c3-10
+	           2 (252) TWW
+	           1 (252) HMC
+686   5.06 Col 285 Sector GH-U c3-20
+	           4 (263) TWW
+687  15.23 HR 839
+	           7 (3129) TWW
+	           4 (1593) HMC
+	           5 (2110) HMC
+	           6 (2118) HMC
+688  23.20 Col 285 Sector AG-W c2-13
+	           1 (617) TWW
+689   8.15 Col 285 Sector AG-W c2-12
+	           2 (356) TWW
+	           3 (356) HMC
+	           1 (273) HMC
+690  16.08 Col 285 Sector AG-W c2-8
+	           1 (357) TWW
+691  32.04 HIP 14476
+	           4 (1379) TWW
+692  20.24 Col 285 Sector DM-U c3-20
+	           4 (254) TWW
+693  35.60 Col 285 Sector WA-U b4-3
+	           A 1 (121) TWW
+694  16.42 Col 285 Sector ZF-W c2-3
+	           10 (425) TWW
+	           9 (280) HMC
+695   5.94 Col 285 Sector ZF-W c2-17
+	           B 4 (3108) TWW
+696  15.60 Col 285 Sector ZF-W c2-10
+	           A 1 (371) ELW
+697  24.43 Col 285 Sector ZK-X d1-59
+	           5 (1290) TWW
+	           4 (912) HMC
+698  14.37 Col 285 Sector ZK-X d1-22
+	           A 4 (660) TWW
+	           A 3 (514) HMC
+699  42.45 Col 285 Sector DM-U c3-2
+	           B 3 (7070) TWW
+	           B 2 (7090) HMC
+700  24.62 Col 285 Sector FM-V d2-109
+	           2 (1073) TWW
+	           1 (725) HMC
