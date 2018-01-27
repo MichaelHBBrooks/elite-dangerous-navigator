@@ -14,10 +14,7 @@ const userFile = "data\\user.json";
 let userData = getData(userFile);
 const userNavIndex = getUserNavIndex(userData, navFile);
 
-console.log("Origin: " + navData.origin);
-
 let currentSystem = userData.navFiles[userNavIndex].current.system;
-console.log("Current: " + navData.path[currentSystem].system);
 if (args.direction === "n") {
     if (currentSystem < navData.path.length) {
         currentSystem++;
@@ -31,8 +28,8 @@ if (args.direction === "n") {
         writeData(userFile, JSON.stringify(userData));
     };
 }
-console.log("Current: " + navData.path[currentSystem].system);
 ncp.copy(navData.path[currentSystem].system);
+console.log(navData.path[currentSystem].system);
 
 function getParserData() {
     var parser = new ArgumentParser({
