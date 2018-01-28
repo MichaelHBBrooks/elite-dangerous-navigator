@@ -14,22 +14,20 @@ const userFile = "data\\user.json";
 let userData = getData(userFile);
 const userNavIndex = getUserNavIndex(userData, navFile);
 
-let currentSystem = userData.navFiles[userNavIndex].current.system;
-if (args.direction === "n") {
-    if (currentSystem < navData.path.length) {
-        currentSystem++;
-        userData.navFiles[userNavIndex].current.system = currentSystem;
-        writeData(userFile, JSON.stringify(userData));
-    };
-} else if (args.direction === "p") {
-    if (currentSystem > 0) {
-        currentSystem--;
-        userData.navFiles[userNavIndex].current.system = currentSystem;
-        writeData(userFile, JSON.stringify(userData));
-    };
+const sysIndex = getSystem(userData.navFiles[userNavIndex].current.system, args.direction, navData.path.length);
+if (args.planets) {
+    printPlanets(navData.path[sysIndex].system, navData.path[sysIndex].planets);
+} else {
+    console.log(navData.path[sysIndex].system);
 }
-ncp.copy(navData.path[currentSystem].system);
-console.log(navData.path[currentSystem].system);
+
+if (!args.planets && sysIndex !== userData.navFiles[userNavIndex].current.system) {
+    userData.navFiles[userNavIndex].current.system = sysIndex;
+    writeData(userFile, JSON.stringify(userData));
+}
+
+ncp.copy(navData.path[sysIndex].system);
+
 
 function getParserData() {
     var parser = new ArgumentParser({
@@ -47,6 +45,13 @@ function getParserData() {
             choices: "pnc",
             help: "(P)revious, (n)ext, or (c)urrent destination.",
             required: true
+        }
+    );
+    parser.addArgument(
+        ["-p", "--planets"],
+        {
+            help: "List planets in target system.",
+            action: "storeTrue"
         }
     );
 
@@ -71,3 +76,27 @@ function getUserNavIndex(userData, navFile) {
     return -1;
 }
 
+function getSystem(systemIndex, direction, maxSystems) {
+    if (direction === "n") {
+        if (systemIndex < maxSystems) {
+            systemIndex++;
+        };
+    } else if (direction === "p") {
+        if (systemIndex > 0) {
+            systemIndex--;
+        };
+    }
+    return systemIndex;
+}
+
+function printPlanets(system, planets) {
+    let text = `There ${planets.length > 1 ? "are" : "is"} ${planets.length} planet${planets.length > 1 ? "s" : ""} in ${system}.`;
+    if (planets.length > 0) {
+        text += " Planet " + planets[0].name;
+        for (let x = 1; x < planets.length; x++) {
+            text += ", planet " + planets[x].name;
+        }
+        text += ".";
+    }
+    console.log(text);
+}
