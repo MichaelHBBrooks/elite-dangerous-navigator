@@ -20,7 +20,7 @@ const sysIndex = getSystem(
     navData.path.length
 );
 if (args.planets) {
-    printPlanets(navData.path[sysIndex].system, navData.path[sysIndex].planets);
+    printPlanets(navData.path[sysIndex].system, navData.path[sysIndex].planets, args.terse);
 } else {
     console.log(navData.path[sysIndex].system);
 }
@@ -47,6 +47,10 @@ function getParserData() {
     });
     parser.addArgument(["-p", "--planets"], {
         help: "List planets in target system.",
+        action: "storeTrue"
+    });
+    parser.addArgument(["-t", "--terse"], {
+        help: "Shorter description of planets.",
         action: "storeTrue"
     });
 
@@ -84,16 +88,43 @@ function getSystem(systemIndex, direction, maxSystems) {
     return systemIndex;
 }
 
-function printPlanets(system, planets) {
+function printPlanets(system, planets, terse) {
+    //  They're stored as "A 2", "ABC 1", etc in most unexplored systems. This sorts them by
+    //  distance from their given star as well.
+    planets.sort((a, b) => {
+        const aName = a.name.toUpperCase();
+        const bName = b.name.toUpperCase();
+        if (aName < bName) {
+            return -1;
+        } else if (aName > bName) {
+            return 1;
+        }
+        return 0;
+    });
+
     let text = `There ${planets.length > 1 ? "are" : "is"} ${planets.length} planet${
         planets.length > 1 ? "s" : ""
     } in ${system}.`;
-    if (planets.length > 0) {
+
+    if (planets.length === 0) {
+        console.log(text);
+        return;
+    }
+
+    if (terse) {
+        text += ` Planet${planets.length > 1 ? "s" : ""} ${planets[0].name}`;
+        for (let y = 1; y < planets.length - 1; y++) {
+            text += ", " + planets[y].name;
+        }
+        if (planets.length > 1) {
+            text += ", and " + planets[planets.length - 1].name;
+        }
+    } else {
         text += " Planet " + planets[0].name + " with a distance of " + planets[0].distance;
         for (let x = 1; x < planets.length; x++) {
             text += ", planet " + planets[x].name + " with a distance of " + planets[x].distance;
         }
-        text += ".";
     }
+    text += ".";
     console.log(text);
 }
