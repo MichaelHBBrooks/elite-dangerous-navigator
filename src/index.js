@@ -1,4 +1,4 @@
-'use strict'
+"use strict";
 
 const fs = require("fs");
 const ArgumentParser = require("argparse").ArgumentParser;
@@ -14,7 +14,11 @@ const userFile = "data\\user.json";
 let userData = getData(userFile);
 const userNavIndex = getUserNavIndex(userData, navFile);
 
-const sysIndex = getSystem(userData.navFiles[userNavIndex].current.system, args.direction, navData.path.length);
+const sysIndex = getSystem(
+    userData.navFiles[userNavIndex].current.system,
+    args.direction,
+    navData.path.length
+);
 if (args.planets) {
     printPlanets(navData.path[sysIndex].system, navData.path[sysIndex].planets);
 } else {
@@ -28,7 +32,6 @@ if (!args.planets && sysIndex !== userData.navFiles[userNavIndex].current.system
 
 ncp.copy(navData.path[sysIndex].system);
 
-
 function getParserData() {
     var parser = new ArgumentParser({
         version: "0.1.0",
@@ -36,24 +39,16 @@ function getParserData() {
         description: "Does stuff"
     });
 
-    parser.addArgument(
-        ["-f", "--file"],
-        { help: "Defines JSON file path." });
-    parser.addArgument(
-        ["-d", "--direction"],
-        {
-            choices: "pnc",
-            help: "(P)revious, (n)ext, or (c)urrent destination.",
-            required: true
-        }
-    );
-    parser.addArgument(
-        ["-p", "--planets"],
-        {
-            help: "List planets in target system.",
-            action: "storeTrue"
-        }
-    );
+    parser.addArgument(["-f", "--file"], { help: "Defines JSON file path." });
+    parser.addArgument(["-d", "--direction"], {
+        choices: "pnc",
+        help: "(P)revious, (n)ext, or (c)urrent destination.",
+        required: true
+    });
+    parser.addArgument(["-p", "--planets"], {
+        help: "List planets in target system.",
+        action: "storeTrue"
+    });
 
     return parser.parseArgs();
 }
@@ -80,21 +75,23 @@ function getSystem(systemIndex, direction, maxSystems) {
     if (direction === "n") {
         if (systemIndex < maxSystems) {
             systemIndex++;
-        };
+        }
     } else if (direction === "p") {
         if (systemIndex > 0) {
             systemIndex--;
-        };
+        }
     }
     return systemIndex;
 }
 
 function printPlanets(system, planets) {
-    let text = `There ${planets.length > 1 ? "are" : "is"} ${planets.length} planet${planets.length > 1 ? "s" : ""} in ${system}.`;
+    let text = `There ${planets.length > 1 ? "are" : "is"} ${planets.length} planet${
+        planets.length > 1 ? "s" : ""
+    } in ${system}.`;
     if (planets.length > 0) {
-        text += " Planet " + planets[0].name;
+        text += " Planet " + planets[0].name + " with a distance of " + planets[0].distance;
         for (let x = 1; x < planets.length; x++) {
-            text += ", planet " + planets[x].name;
+            text += ", planet " + planets[x].name + " with a distance of " + planets[x].distance;
         }
         text += ".";
     }
